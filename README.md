@@ -35,7 +35,6 @@
 📫 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/mahekqureshi" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:mahekqureshi8888@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" /></a>
 </p>
 
 ### 
